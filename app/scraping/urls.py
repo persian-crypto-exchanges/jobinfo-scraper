@@ -1,0 +1,1 @@
+wallex_career_url = "https://wallex.ir/landing/career"
